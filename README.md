@@ -4,7 +4,7 @@ SWAGAT KRTA HU MAI APKA APNI KHUD KI WEBSITE ME
 
 My Study With Me Channel- https://www.youtube.com/@ZeherVision
 
-my friend is pankaj narwal
+
 
 <!--
 **ZeherVision/Zehervision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
