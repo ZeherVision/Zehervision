@@ -1,1 +1,10 @@
-Welcome You All
+<!-- Add this code within the <main> section of your existing index.html -->
+<section class="image-gallery">
+    <h2>Image Gallery</h2>
+    <div class="image-container">
+        <img src="images/image1.jpg" alt="Image 1">
+        <img src="images/image2.jpg" alt="Image 2">
+        <img src="images/image3.jpg" alt="Image 3">
+        <!-- Add more <img> elements for additional images -->
+    </div>
+</section>
